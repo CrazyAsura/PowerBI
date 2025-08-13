@@ -96,7 +96,6 @@ O objetivo é identificar **tendências, padrões e áreas críticas** para auxi
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 - **Power BI** – Visualização e análise dos dados.
 - **Excel/CSV** – Tratamento inicial dos dados.
-- **Python (pandas, matplotlib, seaborn)** – Possível integração para análises adicionais.
 - **Fonte dos dados:** DATATRAN.
 
 ---
